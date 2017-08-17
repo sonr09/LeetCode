@@ -1,0 +1,6 @@
+C:\code\LeetCode633\LeetCode633\bin\Debug\LeetCode633.exe.config
+C:\code\LeetCode633\LeetCode633\bin\Debug\LeetCode633.exe
+C:\code\LeetCode633\LeetCode633\bin\Debug\LeetCode633.pdb
+C:\code\LeetCode633\LeetCode633\obj\Debug\LeetCode633.csprojResolveAssemblyReference.cache
+C:\code\LeetCode633\LeetCode633\obj\Debug\LeetCode633.exe
+C:\code\LeetCode633\LeetCode633\obj\Debug\LeetCode633.pdb
