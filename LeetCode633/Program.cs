@@ -36,5 +36,17 @@ namespace LeetCode633
             }
 
         }
+        static void Main(string[] args)
+        {
+            int c = Convert.ToInt32(Console.ReadLine());
+            if (Solution.JudgeSquareSum(c) == true)
+            {
+                Console.WriteLine("True");
+            }
+            else
+            {
+                Console.WriteLine("False");
+            }
+        }
     }
 }
